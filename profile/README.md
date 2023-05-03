@@ -3,7 +3,7 @@
 The software solution that will make it easy, for any one that wants to participate in different kind of social activities, to find the right team for the right time.
 
 <div align="center">
-<img src="./jump-off.svg" alt="" width="360" style="margin: 0 auto" />
+<img src="./jump-off.svg" alt="" width="360" height="360" style="margin: 0 auto" />
 </div>
 
 
